@@ -1,4 +1,4 @@
-Cald's FC2 Universe,,,,,,,,,,,,,
+Cald's FC2 Universe
 SEC,East,West,,,,,,,,,,,
 ACC,Atlantic,Coastal,,,,,,,,,,,
 Big Ten,East,West,,,,,,,,,,,
@@ -180,12 +180,10 @@ COACH,WSU,Mike Leach,30,55,55,55,55,Air Raid,Aggressive,,,,
 COACH,WVU,Dana Holgorsen,30,55,55,55,55,Air Raid,Aggressive,,,,
 COACH,WIS,Paul Chryst,30,55,55,55,55,Air Raid,Aggressive,,,,
 COACH,WYO,Craig Bohl,30,55,55,55,55,Air Raid,Aggressive,,,,
-,,,,,,,,,,,,,
 # Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
-# OC,OSU,Kevin Wilson,30,95,QB,Deep Pass,,,,,,,
+OC,OSU,Kevin Wilson,30,95,QB,Deep Pass,,,,,,,
 # Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
-# DC,OSU,Jeff Hafley,30,95,LB,Inside Run,,,,,,,
-,,,,,,,,,,,,,
+DC,OSU,Jeff Hafley,30,95,LB,Inside Run,,,,,,,
 # Players,,,,,,,,,,,,,
 # Player format:,Team,Position,Name,Year (String),Height,Weight,Potential,Football IQ,Durability,Attribute1,Attribute2,Attribute3,Attribute4
 PLAYER,ALA,OL,Jonah Williams,Fr,73,295,55,55,55,55,55,55,55
@@ -5778,6 +5776,4 @@ PLAYER,USF,K,Trent Schneider,Fr,67,180,55,55,55,55,55,55,55
 PLAYER,USF,LB,Jeffery Farrar,Fr,71,235,55,55,55,55,55,55,55
 PLAYER,USF,OL,Donovan Jennings,Fr,73,295,55,55,55,55,55,55,55
 PLAYER,USF,K,Jake Vivonetto,Fr,67,180,55,55,55,55,55,55,55
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
 END_FILE,,,,,,,,,,,,,
